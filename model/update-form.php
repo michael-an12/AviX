@@ -1,5 +1,5 @@
 <?php 
-// Include dbConn file
+
 require_once "../config/db_connection.php";
 
 if (isset($_POST['update'])){
@@ -14,8 +14,6 @@ if (isset($_POST['update'])){
     if($result == true){
         //return to product page
         header("Location: ../model/update.php");
-        // echo "Data has been updated";
-        // echo $result;
     }
     else{
         //echo error
