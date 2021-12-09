@@ -1,3 +1,4 @@
+<!-- Sources used for adding to cart: https://dcodemania.com/post/shopping-cart-with-checkout-system-php-mysqli-ajax -->
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
